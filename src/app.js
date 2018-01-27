@@ -1,1 +1,5 @@
-console.log("Hello from webpack");
+const a = () => {
+  console.log("Hello from webpack, with babel");
+};
+
+a();
